@@ -1,0 +1,145 @@
+export const response = {
+  articles: [
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-11T15:07:22.2864263Z",
+      source: ["Object"],
+      title:
+        "Four suspects charged in probe into European Parliament bribery by Gulf state",
+      url: "http://www.bbc.co.uk/news/world-europe-63936360",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-11T12:22:22.2563324Z",
+      source: ["Object"],
+      title: "Lockerbie bombing suspect in US custody",
+      url: "http://www.bbc.co.uk/news/uk-scotland-63933837",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-11T11:22:22.2589024Z",
+      source: ["Object"],
+      title: "Jersey explosion: No survivors found in search after blast",
+      url: "http://www.bbc.co.uk/news/world-europe-jersey-63933571",
+    },
+    {
+      author: "BBC Sport",
+      publishedAt: "2022-12-11T07:37:28.3576571Z",
+      source: ["Object"],
+      title: "'Everyone loves us' - joy at Morocco history makers",
+      url: "http://www.bbc.co.uk/sport/football/63931391",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-11T06:07:21.2489116Z",
+      source: ["Object"],
+      title: "Ukraine war: Odesa and Melitopol under attack",
+      url: "http://www.bbc.co.uk/news/world-europe-63933132",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-11T04:37:24.3739211Z",
+      source: ["Object"],
+      title: "Nasa's Orion capsule on target for splashdown",
+      url: "http://www.bbc.co.uk/news/science-environment-63907649",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-11T00:37:21.5932704Z",
+      source: ["Object"],
+      title:
+        "Base editing: Revolutionary therapy clears girl's incurable cancer",
+      url: "http://www.bbc.co.uk/news/health-63859184",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-10T22:52:22.6708662Z",
+      source: ["Object"],
+      title:
+        "Rita Moreno: If I wasn't Hispanic, I'd have had a different career",
+      url: "http://www.bbc.co.uk/news/entertainment-arts-63861394",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-10T18:22:19.6713937Z",
+      source: ["Object"],
+      title: "Watch Morocco fans celebrate historic World Cup win",
+      url: "http://www.bbc.co.uk/news/world-63931443",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-10T15:07:25+00:00",
+      source: ["Object"],
+      title: "A Multifaceted Design to Shelter Homeless Families in DC",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9mZWF0dXJlcy8yMDIyLTEyLTEwL2EtbXVsdGlmYWNldGVkLWRlc2lnbi10by1zaGVsdGVyLWhvbWVsZXNzLWZhbWlsaWVzLWluLWRj0gEA?oc=5",
+    },
+    {
+      author: "BBC News",
+      publishedAt: "2022-12-10T14:52:22.1396285Z",
+      source: ["Object"],
+      title: "Nobel Peace Prize: Russian laureate 'told to turn down award'",
+      url: "http://www.bbc.co.uk/news/world-europe-63929130",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-10T14:00:16+00:00",
+      source: ["Object"],
+      title:
+        "World's Richest Family, Taylor Swift Tickets: The Week of Big Take",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9uZXdzbGV0dGVycy8yMDIyLTEyLTEwL3dvcmxkLXMtcmljaGVzdC1mYW1pbHktdGF5bG9yLXN3aWZ0LXRpY2tldHMtdGhlLXdlZWstb2YtYmlnLXRha2XSAQA?oc=5",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-10T13:00:22+00:00",
+      source: ["Object"],
+      title: "Tesla's Electric Semi Truck Finds a Sweet Spot in Logistics",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIyLTEyLTEwL3Rlc2xhLXMtZWxlY3RyaWMtc2VtaS10cnVjay1maW5kcy1hLXN3ZWV0LXNwb3QtaW4tbG9naXN0aWNzLWxiaHkzMjN50gEA?oc=5",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-10T09:15:14+00:00",
+      source: ["Object"],
+      title: "This Robot Is on a Mission to Eliminate Short Car Trips",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9mZWF0dXJlcy8yMDIyLTEyLTEwL3RoaXMtcm9ib3QtaXMtb24tYS1taXNzaW9uLXRvLWVsaW1pbmF0ZS1zaG9ydC1jYXItdHJpcHPSAQA?oc=5",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-09T22:10:51+00:00",
+      source: ["Object"],
+      title:
+        "On Eve of Lula's Certification, Bolsonaro Says Army is Last Barrier to Socialism",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0wOS9ib2xzb25hcm8tYnJlYWtzLXNpbGVuY2Utc2F5cy1hcm15LWxhc3QtYmFycmllci10by1zb2NpYWxpc20tbHVsYS1jZXJ0aWZpY2F0aW9u0gEA?oc=5",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-09T22:00:14+00:00",
+      source: ["Object"],
+      title: "Climate Change Versus Biodiversity: There Can Be Only One",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIyLTEyLTA5L2NsaW1hdGUtY2hhbmdlLXZlcnN1cy1iaW9kaXZlcnNpdHktdGhlcmUtY2FuLWJlLW9ubHktb25l0gEA?oc=5",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-09T15:02:05+00:00",
+      source: ["Object"],
+      title: "Bye-Bye Big Bang: UK Finance Reforms Are a Letdown",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIyLTEyLTA5L2J5ZS1ieWUtYmlnLWJhbmctdWstZmluYW5jZS1yZWZvcm1zLWFyZS1hLWxldGRvd27SAQA?oc=5",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-09T14:06:38+00:00",
+      source: ["Object"],
+      title: "Kyrsten Sinema’s Switch to Independent Is All About Arizona",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIyLTEyLTA5L3NpbmVtYS1zLWRlY2lzaW9uLW1hdHRlcnMtbW9yZS10by1hcml6b25hLXRoYW4tdG8td2FzaGluZ3RvbtIBAA?oc=5",
+    },
+    {
+      author: null,
+      publishedAt: "2022-12-09T11:51:14+00:00",
+      source: ["Object"],
+      title:
+        "Harry and Meghan Netflix Show Throws Gauntlet to Royal Family, William and Kate",
+      url: "https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL29waW5pb24vYXJ0aWNsZXMvMjAyMi0xMi0wOS9oYXJyeS1hbmQtbWVnaGFuLW5ldGZsaXgtc2hvdy10aHJvd3MtZ2F1bnRsZXQtdG8tcm95YWwtZmFtaWx5LXdpbGxpYW0tYW5kLWthdGXSAQA?oc=5",
+    },
+  ],
+  status: "ok",
+  totalResults: 0,
+};
